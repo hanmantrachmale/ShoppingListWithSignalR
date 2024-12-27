@@ -1,0 +1,76 @@
+## .NET Core
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]ebug-AnyCPU/
+[Dd]ebug-x86/
+[Dd]ebug-x64/
+[Dd]ebug-arm/
+[Dd]ebug-arm64/
+[Dd]ebug-linux/
+[Dd]ebug-osx/
+[Dd]ebug-wasm/
+[Dd]Release/
+[Dd]ReleasePublic/
+[Dd]ist/
+[Dd]ebug/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Core
+wwwroot/
+
+# DotNet publish output
+publish/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer XML files
+*.wixpdb
+
+# User secrets
+secrets.json
+
+# Azure Functions
+local.settings.json
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# VS for Mac
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# .NET Core global tools
+dotnet-tools.json
+
+# Rider IDE files
+.idea/
+
+# User-specific files
+.idea/
+
+# VS Code
+.vscode/
