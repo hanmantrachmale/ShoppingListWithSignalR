@@ -1,4 +1,5 @@
-## .NET Core
+# .NET Core & SignalR
+
 # User-specific files
 *.user
 *.userosscache
@@ -39,23 +40,11 @@ publish/
 *.msm
 *.msp
 
-# Windows Installer XML files
-*.wixpdb
-
 # User secrets
 secrets.json
 
 # Azure Functions
 local.settings.json
-
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
-
-# VS for Mac
-.vscode/
 
 # Windows Installer files
 *.cab
@@ -69,8 +58,43 @@ dotnet-tools.json
 # Rider IDE files
 .idea/
 
-# User-specific files
-.idea/
-
-# VS Code
+# Visual Studio
 .vscode/
+.vs/
+
+# Angular
+
+# Node.js modules
+node_modules/
+
+# Build output
+/dist/
+/out-tsc/
+/*.log
+
+# Angular CLI configuration files
+.angular/
+
+# IDEs and editors
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Tye configuration files
+.tye/
+
+# NPM debug log
+npm-debug.log
+yarn-error.log
+
+# Coverage reports
+coverage/
+
+# Local environment files
+.env
+
+# Generated files
+*.log
